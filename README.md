@@ -2,9 +2,9 @@
 
 Hi there,<br>
 
-I'm António Gabriel, i'm angolan and currencly i work as a software developer with some stacks in front and backend such as `Python`, `Php`, `Javascript`, `Go` and more.
+I'm António Gabriel, I'm angolan and currencly I work as a software developer with some stacks in front and backend such as `Python`, `Php`, `Javascript`, `Go` and more.
 
-In this article i will talk a little about observability and monitoring of softwares and might be i create an example using a tools of observability and monitoring.
+In this article I will talk a little about observability and monitoring of softwares and might be I create an example using a tools of observability and monitoring.
 
 So let's get started.
 
@@ -36,9 +36,9 @@ To answer these point need to understand some questions related to our clients a
 - You need to monitored the main metrics of business and system.
 - You need tools that help you to understand and debug your system in production.
 
-Exist others points related to cases that you can have in your project but i listed only some.
+Exist others points related to cases that you can have in your project but I listed only some.
 
-These are a some common questions that you ask to you for know what's the cases i need monitored or wha't i need to monitored.
+These are a some common questions that you ask to you for know what's the cases I need monitored or wha't I need to monitored.
 
 So obvervability and monitoring go more than thought, in many cases we need thought in how to manage the state of application and user experience.
 
@@ -56,13 +56,13 @@ The observability and monitoring were created to:
 
 So as all resources of DevOps, the installation of a tools is not sufficient to reach the objectives, but can help on work.
 
-Below i copy a figure that illustrate a implementation of observability and monitoring of software.
+Below I copy a figure that illustrate a implementation of observability and monitoring of software.
 
 <img src="assets/fig1.png" alt="observability and monitoring image">
 
 A complete eccosystem to illustrate.
 
-So we can already define the same in simple term bellow i copy the figure that define.
+So we can already define the same in simple term bellow I copy the figure that define.
 
 <img src="assets/fig2.png" alt="observability and monitoring image">
 
