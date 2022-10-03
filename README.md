@@ -14,7 +14,7 @@ We start to answer the first point.
 
 ## 1. What's Monitoring and Observability.
 
-DORA (DevOps Research and Assessment) define **monitoring** as a tools or technique solution that allow the teams monitored and understand the state of system.
+DORA (DevOps Research and Assessment) define **monitoring** as a tools or technique solution that allow the teams monitorise and understand the state of system.
 
 And **Observability** as a tools or technique solution that allow the teams debug activally a system, exploring properties and patterns not defined with advance.
 
