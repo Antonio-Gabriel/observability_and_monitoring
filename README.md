@@ -18,7 +18,7 @@ DORA (DevOps Research and Assessment) define **monitoring** as a tools or techni
 
 And **Observability** as a tools or technique solution that allow the teams debug activally a system, exploring properties and patterns not defined with advance.
 
-    Once understood the conpects we can already say that monitoring is an item essential to teams of large performance and in addition of several other technique practices, contribute positively to continuous delivery.
+> Once understood the conpects we can already say that monitoring is an item essential to teams of large performance and in addition of several other technique practices, contribute positively to continuous delivery.
 
 ## 2. Why we need in our projects.
 
