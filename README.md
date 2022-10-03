@@ -66,5 +66,20 @@ So we can already define the same in simple term bellow I copy the figure that d
 
 <img src="assets/fig2.png" alt="observability and monitoring image">
 
-## 3. How to apply.
+## 3. How to apply?
 
+So, to apply monitoring in your project, first depends of platform that you can use to make it.
+
+Exists many platforms that help to monitoring and observe your application.
+
+Bellow I list some platforms that you can use for make it too:
+
+1. [Sentry.io](https://sentry.io/for/performance/?utm_source=google&utm_medium=cpc&utm_campaign=10620582635&utm_content=g&utm_term=%2Bobservability%20%2Bmonitoring&device=c&gclid=Cj0KCQjwkOqZBhDNARIsAACsbfLJe_QR2Hu2KbXz5eia29npfKjFcA506Dnb6vxEfmiSIbA4jSGhDxkaArd1EALw_wcB&gclid=Cj0KCQjwkOqZBhDNARIsAACsbfLJe_QR2Hu2KbXz5eia29npfKjFcA506Dnb6vxEfmiSIbA4jSGhDxkaArd1EALw_wcB)
+
+2. [Telemetryhub.com](https://telemetryhub.com/?utm_campaign=17445928558&utm_source=google&utm_medium=cpc&utm_content=602806328128&utm_term=observability&adgroupid=142764754012&gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKobv7RyjC5__rHdq8xOWJkY_UgeinZIGqX5vi03xD7GYS9HBwosUUaAjcbEALw_wcB)
+
+And many others.
+
+## Credits
+
+Google cloud, DORA (DevOps Research and Assessment).
