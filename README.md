@@ -4,11 +4,11 @@ Hi there,<br>
 
 I'm António Gabriel, i'm angolan and currencly i work as a software developer with some stacks in front and backend such as `Python`, `Php`, `Javascript`, `Go` and more.
 
-In this article i will talk little about observability and monitoring of softwares and might be creating an example using a tools of obsevability and monitoring.
+In this article i will talk a little about observability and monitoring of softwares and might be i create an example using a tools of observability and monitoring.
 
-So, Let's get started.
+So let's get started.
 
-First we need to understand what's obeservability and monitoring, why we need in our softwares (usecase specifications), when use and how to apply.
+First we need to understand what's observability and monitoring, why we need in our softwares (use case specifications), when use and how to apply.
 
 We start to answer the first point.
 
